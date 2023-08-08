@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://zarnilinhtetdev.github.io/Portfolio/](https://zarnilinhtetdev.github.io/Portfolio/)
 
-- 💬 Ask me about **PHP,Laravel**
+- 💬 Ask me about **PHP, Laravel**
 
 - 📫 How to reach me **zarnilinhtet.mm@gmail.com**
 
