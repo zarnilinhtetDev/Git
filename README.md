@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
 </p>
-
 
 <h1 align="center">Hi 👋, I'm Zar Ni Lin Htet</h1>
 <h3 align="center">A passionate Web Developer from Myanmar</h3>
