@@ -1,4 +1,6 @@
-<img src="https://i.pinimg.com/originals/68/ab/3f/68ab3f1b4c93a51801bb8d16bdc92837.gif" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Zar Ni Lin Htet</h1>
