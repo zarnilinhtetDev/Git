@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **zarnilinhtet.mm@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: +95 9453994262</h3>
 <p align="left">
 </p>
 
