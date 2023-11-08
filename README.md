@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Zar Ni Lin Htet</h1>
 <h3 align="center">A passionate Web Developer from Myanmar</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/200w.gif?cid=6c09b95246wusqc1rm749somyidlx124kopgpjdrkvl7277g&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zarnilinhtetdev&label=Profile%20views&color=0e75b6&style=flat" alt="zarnilinhtetdev" /> </p>
 
